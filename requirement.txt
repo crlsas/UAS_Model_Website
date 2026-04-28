@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+scikit-learn
+imbalanced-learn
+google-api-python-client
+beautifulsoup4
